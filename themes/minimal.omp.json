@@ -4,7 +4,8 @@
     "black": "#283c34",
     "red": "#e06c75",
     "green": "#98c379",
-    "blue": "#61afef"
+    "blue": "#61afef",
+    "gray": "#abb2bf"
   },
   "blocks": [
     {
@@ -45,6 +46,10 @@
       ]
     }
   ],
+  "secondary_prompt": {
+    "foreground": "p:gray",
+    "template": " \uf553 "
+  },
   "version": 2,
   "terminal_background": "p:black"
 }
